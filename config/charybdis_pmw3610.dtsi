@@ -81,3 +81,5 @@
         device = <&trackball_split>;
     };
 };
+
+#endif
